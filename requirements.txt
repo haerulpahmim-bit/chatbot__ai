@@ -1,2 +1,4 @@
+langchain
+langchain-groq
 streamlit
-mysql-connector-python
+chromadb
